@@ -11,6 +11,11 @@ const int FW = 7;
 const int ND = 2;
 
 int main(int argc, char** argv) {
+
+	argc = 2;
+	argv[1] = "HS_College_GPA.dat";
+
+
   std::cout << "\nCommand Line : ";
   for (int i = 0; i < argc; i++) {
     std::cout << argv[i] << ' ';

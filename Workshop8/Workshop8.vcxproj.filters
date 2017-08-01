@@ -23,6 +23,9 @@
     <ClInclude Include="DataTable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Simple.dat">

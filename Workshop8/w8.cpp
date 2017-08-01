@@ -1,3 +1,16 @@
+// OOP345 Workshop 8: STL Algorithms
+// File w8.cpp
+// Version 1.0
+// Date 2017-07-21
+// Author Jongkuk Lee ( jlee465@myseneca.ca, 127730158 )
+// Description
+//      This file is a test file for Workshop8.
+//
+// Revision History
+///////////////////////////////////////////////////////////
+// Name     Date    Reason
+//
+///////////////////////////////////////////////////////////
 // Workshop 8 - STL Algorithms
 // w8.cpp
 
@@ -6,15 +19,10 @@
 #include <fstream>
 #include <string>
 #include "DataTable.h"
-
 const int FW = 7;
 const int ND = 2;
 
 int main(int argc, char** argv) {
-
-	argc = 2;
-	argv[1] = "HS_College_GPA.dat";
-
 
   std::cout << "\nCommand Line : ";
   for (int i = 0; i < argc; i++) {

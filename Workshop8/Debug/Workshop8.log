@@ -1,0 +1,11 @@
+﻿  w8.cpp
+c:\workshop\oop345\oop345_workshop8\workshop8\datatable.h(87): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  c:\workshop\oop345\oop345_workshop8\workshop8\datatable.h(84): note: while compiling class template member function 'float w8::DataTable<float>::sigma(void) const'
+  c:\workshop\oop345\oop345_workshop8\workshop8\w8.cpp(55): note: see reference to function template instantiation 'float w8::DataTable<float>::sigma(void) const' being compiled
+  c:\workshop\oop345\oop345_workshop8\workshop8\w8.cpp(44): note: see reference to class template instantiation 'w8::DataTable<float>' being compiled
+c:\workshop\oop345\oop345_workshop8\workshop8\datatable.h(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\workshop\oop345\oop345_workshop8\workshop8\datatable.h(45): note: while compiling class template member function 'w8::DataTable<float>::DataTable(std::ifstream &,int,int)'
+  c:\workshop\oop345\oop345_workshop8\workshop8\w8.cpp(44): note: see reference to function template instantiation 'w8::DataTable<float>::DataTable(std::ifstream &,int,int)' being compiled
+c:\workshop\oop345\oop345_workshop8\workshop8\datatable.h(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Workshop8.vcxproj -> C:\Workshop\OOP345\OOP345_Workshop8\Workshop8\Debug\Workshop8.exe
+  Workshop8.vcxproj -> C:\Workshop\OOP345\OOP345_Workshop8\Workshop8\Debug\Workshop8.pdb (Full PDB)

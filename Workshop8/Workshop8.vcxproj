@@ -145,6 +145,7 @@
     <ClCompile Include="w8.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="d.h" />
     <ClInclude Include="DataTable.h" />
   </ItemGroup>
   <ItemGroup>
